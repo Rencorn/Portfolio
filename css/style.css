@@ -1,0 +1,108 @@
+body {
+  color: #565656;
+  overflow-x: hidden;
+}
+
+a {
+  font-size: 12pt;
+}
+
+h1 {
+  margin-bottom: 0px;
+  font-size: 36pt;
+}
+
+h2 {
+  margin-top: 30px;
+  margin-bottom: -10px;
+}
+
+h4 {
+  font-size: 16px;
+}
+hr{
+  border-top: 1px solid #888;
+}
+
+.all-mar {
+  margin: 200px;
+  margin-top: 50px;
+}
+.futter-mar{
+  margin: 50px;
+}
+
+.navbar {
+  margin-bottom: 0px;
+}
+.navbar-default {
+    background-color: #f8f8f8;
+    border-color: #f8f8f8;
+}
+
+.section {
+  margin-top: 100px;
+  margin-bottom: 100px;
+}
+
+.nav {
+  margin-top: 15px;
+  margin-bottom: 15px;
+}
+
+.marl {
+  margin-left: 20px;
+}
+
+.mart{
+  margin-top: 80px;
+}
+.parb{
+  padding-top: 20px;
+}
+
+.pdl {
+  padding-left: 15px;
+}
+
+.marr {
+  margin-right: 80px;
+  width: 80%;
+  height: 80%;
+}
+
+.img-th {
+  max-width: 100%;
+  height: auto;
+}
+.img-ic{
+  max-width: 20px;
+  height: auto;
+}
+
+.jumbotron-extend {
+  margin-bottom: 0px;
+  background: url('../image/sky.JPG')no-repeat center center;
+  background-size: cover;
+}
+
+.jumbotron-contener {
+  position: relative;
+  top: 50%;
+  padding-left: 30px;
+  padding-right: 30px;
+  color: #FFFFFF;
+}
+
+.row-eq-height {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.section {
+  margin-top: 200px;
+  margin-left: 100px;
+}
+p.box {
+   border-bottom: 1px solid #f8f8f8;
+}
